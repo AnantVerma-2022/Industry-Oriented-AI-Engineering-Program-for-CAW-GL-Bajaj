@@ -1,0 +1,68 @@
+# Langchain Dependancies
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+langchain-groq
+langchain-tavily
+
+# Ollama for Local LLM
+langchain-ollama
+ollama
+
+# Transformers
+transformers
+huggingface-hub
+sentence-transformers
+
+# Core Pytorch
+torch
+torchvision
+torchaudio
+
+# Environment Variable Management
+python-dotenv
+
+# Streamlit
+streamlit
+
+# Numerical
+numpy
+scipy
+
+# Data Handling
+pandas
+
+# For Ipykernel
+ipykernel
+
+# Chain
+grandalf
+
+# tools
+duckduckgo_search
+ddgs
+arxiv
+wikipedia
+tavily-python
+
+# CSV
+tabulate
+
+# Parsing PDF
+pypdf
+pymupdf
+
+# Vector Store
+faiss-cpu
+chromadb
+
+#llama Index
+llama-index
+llama-index-vector-stores-chroma
+
+# Langgraph
+langgraph
